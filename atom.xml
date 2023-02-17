@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mercerry&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="/"/>
+  <updated>2023-02-15T09:38:01.000Z</updated>
+  <id>/</id>
+  
+  <author>
+    <name>Mercerry</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CentOS7下使用Mondo Rescue实现系统全备份</title>
+    <link href="/post/2023/02/15/CentOS7%E4%B8%8B%E4%BD%BF%E7%94%A8Mondo-Rescue%E5%AE%9E%E7%8E%B0%E7%B3%BB%E7%BB%9F%E5%85%A8%E5%A4%87%E4%BB%BD/"/>
+    <id>/post/2023/02/15/CentOS7下使用Mondo-Rescue实现系统全备份/</id>
+    <published>2023-02-15T09:38:01.000Z</published>
+    <updated>2023-02-15T09:38:01.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;CentOS7下使用Mondo-Rescue实现系统全备份&quot;&gt;&lt;a href=&quot;#CentOS7下使用Mondo-Rescue实现系统全备份&quot; class=&quot;headerlink&quot; title=&quot;CentOS7下使用Mondo
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+      <category term="技术" scheme="/categories/linux/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu20.04安装OpenFOAM-v2206</title>
+    <link href="/post/2023/02/09/Ubuntu20-04%E5%AE%89%E8%A3%85OpenFOAM-v2206/"/>
+    <id>/post/2023/02/09/Ubuntu20-04安装OpenFOAM-v2206/</id>
+    <published>2023-02-09T15:02:23.000Z</published>
+    <updated>2023-02-09T15:02:23.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Ubuntu20-04安装OpenFOAM-v2206方法&quot;&gt;&lt;a href=&quot;#Ubuntu20-04安装OpenFOAM-v2206方法&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+      <category term="技术" scheme="/categories/linux/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="openFOAM" scheme="/categories/linux/%E6%8A%80%E6%9C%AF/openFOAM/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+      <category term="openFOAM" scheme="/tags/openFOAM/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nexus服务器软件安装和配置</title>
+    <link href="/post/2023/02/09/Nexus%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85%E5%92%8C%E9%85%8D%E7%BD%AE/"/>
+    <id>/post/2023/02/09/Nexus服务器软件安装和配置/</id>
+    <published>2023-02-09T14:51:29.000Z</published>
+    <updated>2023-02-09T14:51:29.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Nexus服务器软件安装和配置&quot;&gt;&lt;a href=&quot;#Nexus服务器软件安装和配置&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+      <category term="maven" scheme="/categories/linux/maven/"/>
+    
+      <category term="java" scheme="/categories/linux/maven/java/"/>
+    
+      <category term="技术" scheme="/categories/linux/maven/java/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="maven" scheme="/tags/maven/"/>
+    
+      <category term="nexus" scheme="/tags/nexus/"/>
+    
+      <category term="java" scheme="/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PVE修改用户密码报错解决方法</title>
+    <link href="/post/2023/02/08/PVE%E4%BF%AE%E6%94%B9%E7%94%A8%E6%88%B7%E5%AF%86%E7%A0%81%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>/post/2023/02/08/PVE修改用户密码报错解决方法/</id>
+    <published>2023-02-08T16:08:53.000Z</published>
+    <updated>2023-02-08T16:08:53.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;PVE修改用户密码报错解决方法&quot;&gt;&lt;a href=&quot;#PVE修改用户密码报错解决方法&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+      <category term="PVE" scheme="/categories/linux/PVE/"/>
+    
+      <category term="技术" scheme="/categories/linux/PVE/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+      <category term="PVE" scheme="/tags/PVE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PVE添加xterm.js支持</title>
+    <link href="/post/2023/02/08/PVE%E6%B7%BB%E5%8A%A0xterm-js%E6%94%AF%E6%8C%81/"/>
+    <id>/post/2023/02/08/PVE添加xterm-js支持/</id>
+    <published>2023-02-08T15:48:38.000Z</published>
+    <updated>2023-02-08T15:48:38.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;PVE添加xterm-js终端支持&quot;&gt;&lt;a href=&quot;#PVE添加xterm-js终端支持&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="linux" scheme="/categories/%E6%8A%80%E6%9C%AF/linux/"/>
+    
+      <category term="PVE" scheme="/categories/%E6%8A%80%E6%9C%AF/linux/PVE/"/>
+    
+    
+      <category term="PVE" scheme="/tags/PVE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PVE删除用户报错解决方法</title>
+    <link href="/post/2023/02/08/PVE%E5%88%A0%E9%99%A4%E7%94%A8%E6%88%B7%E6%8A%A5%E9%94%99%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95/"/>
+    <id>/post/2023/02/08/PVE删除用户报错解决方法/</id>
+    <published>2023-02-08T04:26:24.000Z</published>
+    <updated>2023-02-08T16:34:18.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;PVE删除用户报错解决办法&quot;&gt;&lt;a href=&quot;#PVE删除用户报错解决办法&quot; class=&quot;headerlink&quot; title=&quot;PVE删除用户报错解决办法&quot;&gt;&lt;/a&gt;PVE删除用户报错解决办法&lt;/h1&gt;&lt;h3 id=&quot;重启pvestatd服务&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+      <category term="技术" scheme="/categories/linux/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="PVE" scheme="/categories/linux/%E6%8A%80%E6%9C%AF/PVE/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+      <category term="PVE" scheme="/tags/PVE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue通过window-resize实现图表自适应</title>
+    <link href="/post/2023/01/16/Vue%E9%80%9A%E8%BF%87window-resize%E5%AE%9E%E7%8E%B0%E5%9B%BE%E8%A1%A8%E8%87%AA%E9%80%82%E5%BA%94/"/>
+    <id>/post/2023/01/16/Vue通过window-resize实现图表自适应/</id>
+    <published>2023-01-16T16:21:45.000Z</published>
+    <updated>2023-01-16T16:21:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Vue通过-window-resize-实现图表自适应&quot;&gt;&lt;a href=&quot;#Vue通过-window-resize-实现图表自适应&quot; class=&quot;headerlink&quot; title=&quot;Vue通过 window.resize()
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="vue" scheme="/tags/vue/"/>
+    
+      <category term="前端" scheme="/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux安装nodejs LTS</title>
+    <link href="/post/2023/01/16/linux%E5%AE%89%E8%A3%85nodejs-LTS/"/>
+    <id>/post/2023/01/16/linux安装nodejs-LTS/</id>
+    <published>2023-01-16T11:42:44.000Z</published>
+    <updated>2023-02-09T15:42:10.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Linux安装nodejs-LTS&quot;&gt;&lt;a href=&quot;#Linux安装nodejs-LTS&quot; class=&quot;headerlink&quot; title=&quot;Linux安装nodejs LTS&quot;&gt;&lt;/a&gt;Linux安装nodejs LTS&lt;/h1&gt;&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+      <category term="技术" scheme="/categories/linux/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+      <category term="nodejs" scheme="/tags/nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Oh my zsh + powerlevel10k</title>
+    <link href="/post/2023/01/16/Oh-my-zsh-powerlevel10k/"/>
+    <id>/post/2023/01/16/Oh-my-zsh-powerlevel10k/</id>
+    <published>2023-01-16T11:37:50.000Z</published>
+    <updated>2023-02-08T15:47:57.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Oh-my-zsh-powerlevel10k&quot;&gt;&lt;a href=&quot;#Oh-my-zsh-powerlevel10k&quot; class=&quot;headerlink&quot; title=&quot;Oh-my-zsh + powerlevel10k&quot;&gt;&lt;/a&gt;Oh-my-zsh +
+        
+      
+    
+    </summary>
+    
+      <category term="linux" scheme="/categories/linux/"/>
+    
+    
+      <category term="linux" scheme="/tags/linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue大屏自适应</title>
+    <link href="/post/2023/01/13/Vue%E9%80%9A%E8%BF%87v-scal-screen%E5%AE%9E%E7%8E%B0%E5%A4%A7%E5%B1%8F%E8%87%AA%E9%80%82%E5%BA%94/"/>
+    <id>/post/2023/01/13/Vue通过v-scal-screen实现大屏自适应/</id>
+    <published>2023-01-13T05:11:39.000Z</published>
+    <updated>2023-02-08T15:45:49.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Vue通过v-scal-screen实现大屏自适应&quot;&gt;&lt;a href=&quot;#Vue通过v-scal-screen实现大屏自适应&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="前端" scheme="/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="vue" scheme="/tags/vue/"/>
+    
+      <category term="前端" scheme="/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+</feed>
